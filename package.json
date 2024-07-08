@@ -1,0 +1,22 @@
+{
+  "name": "qtify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SowmiyaSaravanan153/qtify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SowmiyaSaravanan153/qtify/issues"
+  },
+  "homepage": "https://github.com/SowmiyaSaravanan153/qtify#readme",
+  "devDependencies": {
+    "react-scripts": "^3.4.4"
+  }
+}
